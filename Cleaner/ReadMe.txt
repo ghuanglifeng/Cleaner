@@ -1,0 +1,1 @@
+﻿this is Cleaner tool for SNGCAP1400
