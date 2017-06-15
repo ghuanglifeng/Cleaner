@@ -18,3 +18,4 @@ D:\workspace\netdev\Cleaner\Cleaner\bin\Debug\eB.Service.Proxy.dll
 D:\workspace\netdev\Cleaner\Cleaner\obj\x86\Debug\Cleaner.Main.resources
 D:\workspace\netdev\Cleaner\Cleaner\obj\x86\Debug\Cleaner.Properties.Resources.resources
 D:\workspace\netdev\Cleaner\Cleaner\obj\x86\Debug\Cleaner.csproj.GenerateResource.Cache
+D:\workspace\netdev\Cleaner\Cleaner\obj\x86\Debug\Cleaner.csprojResolveAssemblyReference.cache
